@@ -1,9 +1,49 @@
-body{
-  height:auto;
-  width: auto;
-  margin: 0px;
-  padding: 0px;
-  font-family: verdana, geneva, sans-serif;
-  background-image: url(/img/river.jpg);
-  color: black;
+
+
+.container-fluid{
+  background-color: yellow;
+  padding: 20px;
+}
+
+.header{
+  background-color: blue;
+  padding: 20px;
+  border: 2px solid black;
+  height: 100px;
+}
+
+.nav{
+  background-color: green;
+  padding: 20px;
+  border: 2px solid black;
+  height: 100px;
+}
+
+.content{
+  background-color: red;
+  padding: 20px;
+  border: 2px solid black;
+  height: 200px;
+}
+
+.aside{
+  background-color: aqua;
+  padding: 20px;
+  border: 2px solid black;
+  height: 200px;
+}
+
+.promo{
+  background-color: orange;
+  padding: 20px;
+  border: 2px solid black;
+  height: 250px;
+}
+
+.footer{
+  color: white;
+  background-color: black;
+  padding: 20px;
+  height: 200px;
+  border: 2px solid black;
 }
